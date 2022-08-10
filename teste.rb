@@ -6,5 +6,5 @@ if x % 2 == 0
     
 else
     puts "O " + x.to_s + "é um número ímpar"
-    
+    #dddddddddd
 end
